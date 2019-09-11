@@ -1,0 +1,24 @@
+Pessoa:
+			Beneficio(desc)		INSS(desc)
+Estagiario			15%		0%			
+Desenvolvedor			10%		8%
+Gerente				 5%		12%
+
+
+
+
+
+
+
+
+
+
+ Reuso de código:
+ Partes de um algorítmo são reutilizadas
+  por todas as subclasses.
+ Controle:
+ É possível permitir o que as subclasses
+podem estender (métodos finais).
+ Comportamento padrão extensível:
+ Superclasse pode definir o comportamento padrão e permitir sobrescrita.
+
